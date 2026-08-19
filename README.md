@@ -1,8 +1,4 @@
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Ceskoslov" />
-</div>
-
 ## Hi there 👋
 
 - 🧑‍💻 I'm Ceksoslov/Boxin Liu!
