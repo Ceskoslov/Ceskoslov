@@ -13,7 +13,4 @@
 <br>
 
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Ceskoslov&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceskoslov&theme=vue-dark&layout=compact" />
-</div>
+[![Ceskoslov's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ceskoslov)](https://github.com/stats-organization/github-stats-extended)
