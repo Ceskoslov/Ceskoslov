@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-- 🧑‍💻 I'm Ceksoslov/Boxin Liu!
+- 🧑‍💻 I'm Ceksoslov!
 <br>
 
 ## 🌱 Skills
